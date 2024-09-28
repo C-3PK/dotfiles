@@ -1,2 +1,2 @@
 # dotfiles
-OS: Fedora Silverblue 39
+OS: Fedora Silverblue 40
