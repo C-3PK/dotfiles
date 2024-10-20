@@ -1,2 +1,1 @@
-# dotfiles
-OS: Aurora-dx 40
+Main OS: [Aurora-DX 40](https://getaurora.dev)
