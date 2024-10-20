@@ -1,2 +1,2 @@
 # dotfiles
-OS: Fedora Silverblue 40
+OS: Aurora-dx 40
