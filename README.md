@@ -1,1 +1,3 @@
-Main OS: [Aurora-DX 40](https://getaurora.dev)
+### Currently using:
+__Development:__ [Aurora-DX 41](https://getaurora.dev)
+__Gaming:__ [Bazzite 41](https://bazzite.gg)
