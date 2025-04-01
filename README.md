@@ -1,6 +1,6 @@
 ## Currently using:
-__Development:__ [Aurora-DX 41](https://getaurora.dev)
+__Development:__ [Arch Linux](https://archlinux.org)
 
-__Gaming:__ [Bazzite 41](https://bazzite.gg)
+__Gaming:__ [Windows 11](https://www.microsoft.com/windows/windows-11)
 
 __Mobile:__ [GrapheneOS](https://grapheneos.org)
