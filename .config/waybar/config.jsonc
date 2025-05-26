@@ -95,22 +95,10 @@
 	},
 
 	"pulseaudio": {
-		"format": "{volume}% {icon} {format_source} ",
-		"format-bluetooth": "{volume}% {icon} {format_source} ",
-		"format-bluetooth-muted": " {icon} {format_source} ",
-		"format-muted": " {format_source} ",
-		"format-source": "{volume}% ",
-		"format-source-muted": "",
-		"format-icons": {
-			"headphone": "",
-			"hands-free": "",
-			"headset": "",
-			"phone": "",
-			"portable": "",
-			"car": "",
-			"default": ["", "", ""]
-		},
-		"nospacing": 1,
+		"format": "{volume}% | {format_source} ",
+		"format-muted": "OFF | {format_source}",
+		"format-source": "{volume}%",
+		"format-source-muted": "OFF",
 		"on-click": "pavucontrol",
 		"tooltip": false
 	},
@@ -118,8 +106,8 @@
 	"idle_inhibitor": {
 		"format": "{icon}",
 		"format-icons": {
-			"activated": "󰈈",
-			"deactivated": "󰈉"
+			"activated": "オン",
+			"deactivated": "オフ"
 		}
 	},
 
