@@ -14,14 +14,11 @@
 	],
 
 	"modules-center": [
-		"custom/icon",
 		"clock"
 	],
 
 	"modules-right": [
 		"tray",
-		"hyprland/language",
-		"cpu_text",
 		"cpu",
 		"memory",
 		"temperature",
@@ -30,11 +27,6 @@
 		"pulseaudio",
 		"idle_inhibitor"
 	],
-
-	"custom/icon": {
-		"format": " 󰣇 ",
-		"tooltip": false
-	},
 
 	"hyprland/workspaces": {
 		"disable-scroll": true,
@@ -49,10 +41,6 @@
 	"tray": {
 		"spacing": 10,
 		"tooltip": false
-	},
-
-	"hyprland/language": {
-		"format": "{short}"
 	},
 
 	"cpu": {
@@ -73,7 +61,7 @@
 
 	"temperature": {
 		"critical-threshold": 80,
-		"format": "{temperatureC}°C"
+		"format": "tmp {temperatureC}°C"
 	},
 
 	"battery": {
